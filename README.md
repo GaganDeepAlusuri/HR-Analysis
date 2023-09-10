@@ -39,6 +39,6 @@ HR Analytics offers valuable insights into the factors influencing employee perf
 
 Feel free to explore the code and results to gain a deeper understanding of HR trends within your organization.
 
-For inquiries or further information, please contact the project owner, [Your Name], at [Your Email Address].
+For inquiries or further information, please contact the project owner, Gagan Deep Alusuri, at alusurigagandeep@gmail.com.
 
 Thank you for exploring HR Analytics! 📊👥
